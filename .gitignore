@@ -1,0 +1,6 @@
+﻿*.gguf
+__pycache__/
+*.pyc
+app-working-backup.py
+templates/index-working-backup.html
+app_backup.py
